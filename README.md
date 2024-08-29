@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DonaldDuck123456
+- 👋 Hi, I’m jerrysun
 - 👀 I’m interested in Math, learning to code, Basketball
 - 🌱 I’m currently learning C++, Algorithms
 - 💞️ I’m looking to collaborate on any coding project
